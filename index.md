@@ -1,10 +1,7 @@
----
 # OS242
----
 
-[LINKS](links.md) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/Dardrich/os242/)
+**[LINKS](links.md)** || **[LOG](TXT/mylog.txt)** || **[GitHub](https://github.com/Dardrich/os242/)**
 
-<br>
 <br>
 <br>
 
