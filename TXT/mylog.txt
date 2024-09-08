@@ -28,8 +28,6 @@ ZCZC W01 18 L41 TXT/mylog.txt related.
 =====W02=====
 
 
-
-
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.
 L01 SCELE/Discord related
