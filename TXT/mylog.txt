@@ -44,7 +44,10 @@ ZCZC W02 30 L23 Bash, Regex, SED, AWK.
 ZCZC W02 40 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 20 L41 TXT/mylog.txt related.
 ZCZC W02 25 L44 TXT/myscript.sh related. See also L25, L24.
+<<<<<<< HEAD
 
+=======
+>>>>>>> e585681 (update mylog.txt)
 
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.
