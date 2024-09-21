@@ -13,6 +13,7 @@ permalink: LINKS/
 - [The Math Behind RSA Encryption Algorithm](https://youtu.be/JD72Ry60eP4?feature=shared) --- A super nice explanation of the RSA encryption algorithm
 - [Don't Pick the Wrong Prime Number!](https://youtu.be/-ShwJqAalOk?feature=shared) --- A nice explanation on how RSA encryption can be broken if the prime numbers used for key generation are not carefully selected, making the system vulnerable to attacks
 - [What is DDOS?](https://youtu.be/anmgPqg4Nw8?feature=shared) --- A nice explanation on what is DDOS and how to prevent it
+- [Bash Scripting Tutorial](https://youtu.be/tK9Oc6AEnR4?feature=shared) --- A nice introduction on scripting with Bash
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
@@ -22,4 +23,4 @@ permalink: LINKS/
 <br>
 
 ---
-###### LastRev: Sat 14 Sep 2024 22:43
+###### LastRev: Sun 22 Sep 2024 00:00
