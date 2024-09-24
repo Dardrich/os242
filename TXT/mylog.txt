@@ -44,10 +44,17 @@ ZCZC W02 30 L23 Bash, Regex, SED, AWK.
 ZCZC W02 40 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 20 L41 TXT/mylog.txt related.
 ZCZC W02 25 L44 TXT/myscript.sh related. See also L25, L24.
-<<<<<<< HEAD
 
-=======
->>>>>>> e585681 (update mylog.txt)
+=====W03=====
+ZCZC W03 360 L01 SCELE/Discord related
+ZCZC W03 240 L11 Assignment #01
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 20 L14 Assignment #04
+ZCZC W03 50 L15 Assignment #05
+ZCZC W03 120 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W03 10 L41 TXT/mylog.txt related
+ZCZC W03 120 l32 YouTube: watching OS related topics, etc.
 
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.
