@@ -14,13 +14,16 @@ permalink: LINKS/
 - [Don't Pick the Wrong Prime Number!](https://youtu.be/-ShwJqAalOk?feature=shared) --- A nice explanation on how RSA encryption can be broken if the prime numbers used for key generation are not carefully selected, making the system vulnerable to attacks
 - [What is DDOS?](https://youtu.be/anmgPqg4Nw8?feature=shared) --- A nice explanation on what is DDOS and how to prevent it
 - [Bash Scripting Tutorial](https://youtu.be/tK9Oc6AEnR4?feature=shared) --- A nice introduction on scripting with Bash
+- [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?feature=shared) --- A nice introduction on the core concepts in the C programming language
+- [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&feature=shared) --- A playlist covering the main Unix processed in C programming language
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
 - [Linux Got Backdoor-ed!!?](https://youtu.be/bS9em7Bg0iU?feature=shared) --- Answering "Can Linux be hacked" and "Who is behind XZ backdoor attack"
+- [How safe is C?](https://youtu.be/oTEiQx88B2U?feature=shared) --- A very nice sneak peek into how safe the C programming language is
 
 <br>
 <br>
 
 ---
-###### LastRev: Sun 22 Sep 2024 00:00
+###### LastRev: Tue 01 Oct 2024 18:19
