@@ -16,6 +16,8 @@ permalink: LINKS/
 - [Bash Scripting Tutorial](https://youtu.be/tK9Oc6AEnR4?feature=shared) --- A nice introduction on scripting with Bash
 - [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?feature=shared) --- A nice introduction on the core concepts in the C programming language
 - [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&feature=shared) --- A playlist covering the main Unix processed in C programming language
+- [How to Adjust Virtual Memory on Windows 10](https://youtu.be/gx6ffIMSy28?feature=shared) --- No description needed, a title is more than enough
+- [MacOS, Your Time Has Come](https://youtu.be/WTyoSv_hpgg?feature=shared) --- Just open it if you're curious
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
@@ -26,4 +28,4 @@ permalink: LINKS/
 <br>
 
 ---
-###### LastRev: Tue 01 Oct 2024 18:19
+###### LastRev: Fri 04 Oct 2024 12:42 WIB
