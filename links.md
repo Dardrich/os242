@@ -18,6 +18,10 @@ permalink: LINKS/
 - [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&feature=shared) --- A playlist covering the main Unix processed in C programming language
 - [How to Adjust Virtual Memory on Windows 10](https://youtu.be/gx6ffIMSy28?feature=shared) --- No description needed, a title is more than enough
 - [MacOS, Your Time Has Come](https://youtu.be/WTyoSv_hpgg?feature=shared) --- Just open it if you're curious
+- [Process Creation](https://youtu.be/pSW9d3Oaie8?feature=shared) --- A nice introduction of a kind of operation on processes, process creation
+- [Process Termination](https://youtu.be/SFc3jt8t5rU?feature=shared) --- A nice introduction of a kind of operation on processes, process termination
+- [Fork? Exec? What??!](https://youtu.be/IFEFVXvjiHY?feature=shared) --- Discussing fork() and exec() syscall
+- [There Are Zombies on Your Lawn!](https://youtu.be/xpUlOn4h1fg?feature=shared) --- Discussing zombie and orphan processes
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
@@ -28,4 +32,4 @@ permalink: LINKS/
 <br>
 
 ---
-###### LastRev: Fri 04 Oct 2024 12:42 WIB
+###### LastRev: Tue 29 Oct 2024 11:10 WIB
