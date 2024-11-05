@@ -88,6 +88,15 @@ ZCZC W06 70 L15 Assignment #05
 ZCZC W06 200 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W06 150 L32 YouTube: watching OS related topics, etc.
 
+=====W07=====
+ZCZC W07 360 L01 SCELE/Discord related
+ZCZC W07 40 L11 Assignment #01
+ZCZC W07 50 L12 Assignment #02
+ZCZC W07 70 L13 Assignment #03
+ZCZC W07 40 L14 Assignment #04
+ZCZC W07 200 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 135 L32 YouTube: watching OS related topics, etc.
+
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.
 L01 SCELE/Discord related

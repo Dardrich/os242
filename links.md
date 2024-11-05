@@ -22,6 +22,10 @@ permalink: LINKS/
 - [Process Termination](https://youtu.be/SFc3jt8t5rU?feature=shared) --- A nice introduction of a kind of operation on processes, process termination
 - [Fork? Exec? What??!](https://youtu.be/IFEFVXvjiHY?feature=shared) --- Discussing fork() and exec() syscall
 - [There Are Zombies on Your Lawn!](https://youtu.be/xpUlOn4h1fg?feature=shared) --- Discussing zombie and orphan processes
+- [Semaphore?](https://youtu.be/LIzTbA3cAWY?feature=shared) --- A small animated video to explain the concept of semaphores in OS
+- [More Semaphore](https://youtu.be/70auqrv84y8?feature=shared) --- Explanation and Intuition about Semaphores
+- [Semaphore, again](https://youtu.be/3KJeK-UUADA?feature=shared) --- Deeper explanation about Semaphores
+- [Semaphore vs Mutex](https://youtu.be/DvF3AsTglUU?feature=shared) --- Explaining the difference between Semaphore and Mutex
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
@@ -32,4 +36,4 @@ permalink: LINKS/
 <br>
 
 ---
-###### LastRev: Tue 29 Oct 2024 11:10 WIB
+###### LastRev: Tue 05 Nov 2024 17:05 WIB
