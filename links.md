@@ -26,6 +26,9 @@ permalink: LINKS/
 - [More Semaphore](https://youtu.be/70auqrv84y8?feature=shared) --- Explanation and Intuition about Semaphores
 - [Semaphore, again](https://youtu.be/3KJeK-UUADA?feature=shared) --- Deeper explanation about Semaphores
 - [Semaphore vs Mutex](https://youtu.be/DvF3AsTglUU?feature=shared) --- Explaining the difference between Semaphore and Mutex
+- [CPU Scheduling Basics](https://youtu.be/Jkmy2YLUbUY?feature=shared) --- An introduction to scheduling in CPU
+- [Process States](https://youtu.be/2dJdHMpCLIg?feature=shared) --- Explaining process states in OS
+- [How to Build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&feature=shared) --- Demonstration on the installation of LFS 12.0 on real hardware
 
 ## OOT
 - [The Mind Behind Linux](https://youtu.be/o8NPllzkFhE?feature=shared) --- An account and sharing about the creation of Linux from its creator, Linus Torvalds
@@ -36,4 +39,4 @@ permalink: LINKS/
 <br>
 
 ---
-###### LastRev: Tue 05 Nov 2024 17:05 WIB
+###### LastRev: Tue 12 Nov 2024 10:27 WIB
